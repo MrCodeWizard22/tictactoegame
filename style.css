@@ -30,10 +30,12 @@ body{
     width: 18vmin;
     border-radius: 1.2rem;
     border-style: none;
-    box-shadow:0 0 20px rgb(227 128 128);
+    box-shadow: 5px 0px 2px rgb(138 30 30);
     font-size: 7vmin;
     background-color: white;
+    color: red;
 }
+
 #reset {
     background-color: #007bff; 
     color: #fff; 
