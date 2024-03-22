@@ -51,9 +51,9 @@ const show = (winner)=>{
     msg.innerText = `winner is ${winner}`;
     upp.classList.remove("hide");
 
-    setTimeout(() => {
-        disableBox(); 
-    }, 3000);
+    // setTimeout(() => {
+    //     disableBox(); 
+    // }, 3000);
     
 
 

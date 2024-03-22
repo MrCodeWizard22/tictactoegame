@@ -8,7 +8,10 @@ body{
     text-align: center;
 }
 .main{
-    background-color: c77dff;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 1.7rem;
+    font-size: large;
 }
 .container{
     height: 80vh;
